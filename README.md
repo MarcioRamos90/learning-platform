@@ -1,5 +1,7 @@
 # learning-platform
 
+projeto para ajudar na aprendizagem de forma fácil e extremamente divertida
+
 ## Project setup
 ```
 npm install
